@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #4dfcaa;
+    background-image:url('bachground.png');
     margin-top: 0;
     margin-bottom: 40px;
     padding: 26px 26px 20px 40px;
@@ -9,7 +9,7 @@
 .page-header h1 a,
 .page-header h1 a:visited,
 .page-header h1 a:active {
-    color: #0a4715;
+    color: #dfe3f8;
     font-size: 36pt;
     text-decoration: none;
 }
